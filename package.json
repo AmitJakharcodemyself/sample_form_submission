@@ -1,0 +1,20 @@
+{
+  "name": "sample_form_submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitJakharcodemyself/sample_form_submission.git"
+  },
+  "author": "AMIT JAKHAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitJakharcodemyself/sample_form_submission/issues"
+  },
+  "homepage": "https://github.com/AmitJakharcodemyself/sample_form_submission#readme"
+}
